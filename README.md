@@ -1,2 +1,2 @@
 # Netsion-BD
-Programming and Buisness Development
+Programming and Business Development
